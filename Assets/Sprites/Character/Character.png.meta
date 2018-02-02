@@ -1,0 +1,482 @@
+fileFormatVersion: 2
+guid: 2c50d1da3667e184d917bbb3ab8c4614
+timeCreated: 1517477332
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hoofd
+    21300002: wenkbrauw links
+    21300004: wenkbrauw rechts
+    21300006: beenlinks
+    21300008: beenrechts
+    21300010: scheenlinks
+    21300012: knuppel(tommie)
+    21300014: scheenrechts
+    21300016: bovenarmlinks
+    21300018: nek
+    21300020: bovenarmrechts
+    21300022: schoen
+    21300024: armlinks
+    21300026: buik
+    21300028: pakhand
+    21300030: armrechts
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.25
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hoofd
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 256
+        width: 267
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wenkbrauw links
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 487
+        width: 46
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wenkbrauw rechts
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 487
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beenlinks
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 356
+        width: 109
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: beenrechts
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 348
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scheenlinks
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 268
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: knuppel(tommie)
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 8
+        width: 36
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scheenrechts
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 260
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bovenarmlinks
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: nek
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 196
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bovenarmrechts
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 148
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: schoen
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 200
+        width: 88
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armlinks
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 32
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: buik
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pakhand
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: armrechts
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: 161.96945, y: 73.898834}
+      - {x: 142, y: 72.141205}
+      - {x: 137.51529, y: 56.423615}
+      - {x: 144.54584, y: -199}
+      - {x: 144.37405, y: -235.65648}
+      - {x: 141.75766, y: -243.55533}
+      - {x: 157.6565, y: -247.65648}
+      - {x: 162.79767, y: -238.48473}
+      - {x: 166.96945, y: -54}
+      - {x: 171.6565, y: 70.24237}
+    - - {x: 52.536346, y: -194.58588}
+      - {x: 47.567352, y: -214.68452}
+      - {x: 9.515259, y: -217.16226}
+      - {x: 6, y: -242}
+      - {x: 82.31299, y: -225.59537}
+      - {x: 87, y: -194}
+    - - {x: -207.32405, y: -196.55478}
+      - {x: -200.68704, y: -162.58588}
+      - {x: -210, y: -155.75764}
+      - {x: -217.41412, y: -158.10117}
+      - {x: -224.0706, y: -165.9294}
+      - {x: -225.89885, y: -198.58588}
+      - {x: -227.65648, y: -224.65648}
+      - {x: -220.58588, y: -232.89885}
+      - {x: -213.41412, y: -235.48473}
+      - {x: -204.37407, y: -236.65648}
+      - {x: -194, y: -235}
+      - {x: -196.34352, y: -205.9294}
+    - - {x: -93.82823, y: -96.74815}
+      - {x: -125.150696, y: -80.9294}
+      - {x: -147.38358, y: -91.61644}
+      - {x: -164.52478, y: -143.72708}
+      - {x: -174.48473, y: -191.04005}
+      - {x: -155.72708, y: -200.45416}
+      - {x: -119.62799, y: -211}
+      - {x: -85.05162, y: -205.58588}
+      - {x: -58.01729, y: -200.04396}
+      - {x: -57.84662, y: -156.45973}
+      - {x: -63.37407, y: -115.41412}
+      - {x: -67.858795, y: -95.06111}
+    - - {x: 33, y: -125}
+      - {x: 30, y: -131}
+      - {x: 30, y: -143}
+      - {x: 33, y: -154}
+      - {x: 51, y: -162}
+      - {x: 65, y: -162}
+      - {x: 74, y: -156}
+      - {x: 74, y: -135}
+      - {x: 67, y: -125}
+    - - {x: -207.96945, y: -50.272903}
+      - {x: -230.56276, y: -72.441055}
+      - {x: -228.66495, y: -84.680466}
+      - {x: -240.82825, y: -101.60693}
+      - {x: -223.25186, y: -113.41412}
+      - {x: -210.64699, y: -92.322464}
+      - {x: -200.88934, y: -97.35301}
+      - {x: -175.17175, y: -65.69653}
+      - {x: -181.03056, y: -45.58586}
+    - - {x: -36, y: -30}
+      - {x: -42, y: -32}
+      - {x: -42, y: -78}
+      - {x: -16, y: -110}
+      - {x: 10, y: -110}
+      - {x: 10, y: -49}
+      - {x: -11, y: -30}
+    - - {x: -120, y: -22}
+      - {x: -134, y: -39}
+      - {x: -134, y: -52}
+      - {x: -133, y: -55}
+      - {x: -105, y: -62}
+      - {x: -96, y: -62}
+      - {x: -88, y: -58}
+      - {x: -88, y: -26}
+      - {x: -99, y: -22}
+    - - {x: 21, y: -17}
+      - {x: 18, y: -27}
+      - {x: 18, y: -55}
+      - {x: 25, y: -59}
+      - {x: 101, y: -59}
+      - {x: 110, y: -57}
+      - {x: 110, y: -38}
+      - {x: 76, y: -17}
+    - - {x: -190, y: 238}
+      - {x: -207.68704, y: 204.2919}
+      - {x: -231.0706, y: 150.6449}
+      - {x: -233.41412, y: 94.437256}
+      - {x: -222.46017, y: 55.44223}
+      - {x: -208.69653, y: 31.395111}
+      - {x: -202.8716, y: 48.74231}
+      - {x: -175.0661, y: 22.489624}
+      - {x: -141.61143, y: 1.4375}
+      - {x: -99.01315, y: 2.8026428}
+      - {x: -80.6918, y: 12.752808}
+      - {x: -70.26341, y: 25.536285}
+      - {x: -56.63327, y: 44.149353}
+      - {x: -40.794403, y: 64.41394}
+      - {x: -33.065216, y: 101.71652}
+      - {x: 8.706024, y: 113.03262}
+      - {x: 33.557434, y: 138.1644}
+      - {x: 32.141205, y: 172.83774}
+      - {x: -6.122864, y: 192.4335}
+      - {x: -49.188858, y: 191.55396}
+      - {x: -118, y: 238}
+    - - {x: 238, y: 66}
+      - {x: 237, y: 70}
+      - {x: 235, y: 73}
+      - {x: 209, y: 73}
+      - {x: 207, y: 69}
+      - {x: 202, y: 60}
+      - {x: 202, y: 16}
+      - {x: 206, y: 2}
+      - {x: 226, y: 2}
+      - {x: 228, y: 7}
+      - {x: 230, y: 20}
+      - {x: 238, y: 53}
+    - - {x: 76, y: 78}
+      - {x: 65, y: 72}
+      - {x: 54, y: 43}
+      - {x: 54, y: 23}
+      - {x: 58, y: 10}
+      - {x: 79, y: 10}
+      - {x: 104, y: 50}
+      - {x: 104, y: 71}
+      - {x: 98, y: 78}
+    - - {x: 242, y: 210}
+      - {x: 183, y: 210}
+      - {x: 182, y: 206}
+      - {x: 182, y: 129}
+      - {x: 206, y: 90}
+      - {x: 240, y: 90}
+      - {x: 255, y: 125}
+      - {x: 255, y: 181}
+      - {x: 252, y: 205}
+    - - {x: 46, y: 187}
+      - {x: 46, y: 134}
+      - {x: 74.818756, y: 95.07059}
+      - {x: 106.56482, y: 124.36459}
+      - {x: 159, y: 165}
+      - {x: 159, y: 210}
+      - {x: 67, y: 210}
+      - {x: 61, y: 209}
+    - - {x: 110, y: 242}
+      - {x: 104, y: 241}
+      - {x: 104, y: 231}
+      - {x: 108, y: 229}
+      - {x: 153, y: 229}
+      - {x: 154, y: 231}
+      - {x: 154, y: 240}
+      - {x: 153, y: 242}
+    - - {x: 221, y: 231}
+      - {x: 221, y: 240}
+      - {x: 216, y: 242}
+      - {x: 186, y: 242}
+      - {x: 184, y: 240}
+      - {x: 179, y: 234}
+      - {x: 179, y: 229}
+      - {x: 219, y: 229}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
